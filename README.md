@@ -2,7 +2,7 @@
 
 # In this video, We add the Delete HTTP request and the Post HTTP request to our Elm application.  This allows us to use more of our Rust API in the front-end applcation.    
 
-### Check out the Youtube Tutorial for this [Elm/Rust Tutorial](https://youtu.be/e9EWTcwi6F4).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+### Check out the Youtube Tutorial for this [Elm/Rust Tutorial](https://youtu.be/3posJoGeq4E).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
 ### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
